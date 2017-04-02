@@ -1,6 +1,6 @@
 ---
 applications:
-- name: predix-nodejs-starter
+- name: racingcow-predix-nodejs-starter
   memory: 128M
   buildpack: nodejs_buildpack
   #command:  DEBUG=express:* node app.js
